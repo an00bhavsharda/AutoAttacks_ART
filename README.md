@@ -14,3 +14,6 @@ The project employs a combination of traditional and advanced methodologies in m
 
 These attacks are implemented using the Adversarial Robustness Toolbox (ART), which provides pre-built attack algorithms for various types of adversarial threats. By leveraging ART's modular attack functionality, the project efficiently tests a range of attacks on machine learning models.
 
+
+(USE execution_commands.txt TO EXECUTE EACH ATTACK)
+
