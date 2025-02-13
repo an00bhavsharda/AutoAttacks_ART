@@ -1,0 +1,25 @@
+ Evasion Attack (Adversarial Example Generation)
+This attack modifies input data to deceive the model into making incorrect predictions.
+
+python C:\Users\robustbench_env\evasion_attack.py
+
+
+
+Poisoning Attack
+This attack injects malicious data into the training set to manipulate the model's learning process.
+
+python C:\Users\robustbench_env\poisoning_attack.py
+
+
+
+Model Extraction Attack
+This attack attempts to steal a model by querying it and training a surrogate model.
+
+python C:\Users\robustbench_env\model_extraction_attack.py
+
+
+
+Model Inference Attack
+This attack determines whether a given data sample was part of the model’s training set (membership inference attack).
+
+python C:\Users\robustbench_env\model_inference_attack.py
